@@ -1,14 +1,6 @@
 # local-help.xplr
 An [xplr](https://github.com/sayanarijit/xplr) plugin that adds a local help screen under `ctrl-h`.
 
-See [xplr documentation](https://xplr.dev/en/) for instructions on how to use xplr plugins.
-
-The plugin takes 2 parameters:
-
-- `key` (default `ctrl-h`): Determines the key to open local help with.
-
-- `input_buffer_height` (default 3): Determines the space around the input buffer.  If you haven't messed with layout, don't touch this
-
 # Why:
 
 The help tile in `xplr` is small, doesn't show everything, and is a bit lacking. The global help shows everything, including what is irrelevant to your current situation, and can be hard to navigate.
@@ -21,6 +13,13 @@ Type to filter, and press up and down to highlight different ones.  If you want 
 ![A screenshot of the local help mode.](local-help.png)
 
 If you're confused about what to do or what you can do in this screen, local help the local help!
+
+# Parameters:
+
+- `key` (default `ctrl-h`): Determines the key to open local help with.
+
+- `input_buffer_height` (default 3): Determines the space around the input buffer.  If you haven't messed with layout, don't touch this
+
 
 # Installation:
 
