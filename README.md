@@ -18,7 +18,7 @@ The help tile in `xplr` is small, doesn't show everything, and is a bit lacking.
 Press your chosen help key in any screen to open up a menu that shows keybinds and their description, as well as the name and description (if any) of the previous mode.
 Type to filter, and press up and down to highlight different ones.  If you want to return, press `esc` and if you want to use a highlighted keybind, press `enter`.
 
-https://raw.githubusercontent.com/LyxHuston/local-help/refs/heads/main/local-help.png
+https://github.com/LyxHuston/local-help.xplr/blob/30e2fb3129f367db193ced3251ced5c5bdae712e/local-help.png
 
 If you're confused about what to do or what you can do in this screen, local help the local help!
 
