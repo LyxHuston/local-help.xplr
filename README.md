@@ -58,7 +58,7 @@ To use it manually:
 ```bash
 mkdir -p ~/.config/xplr/plugins
 
-git clone https://github.com/sayanarijit/command-mode.xplr ~/.config/xplr/plugins/command-mode
+git clone https://github.com/LyxHuston/local-help.xplr ~/.config/xplr/plugins/local-help
 ```
 
 * Add the following lines in `~/.config/xplr/init.lua`:
